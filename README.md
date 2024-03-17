@@ -19,4 +19,11 @@ To solve this challenge you’ll need to draw on skills you learned in tutorials
 
 ### As always, I’m going to provide some hints below, but I suggest you try to complete as much of the challenge as you can before reading them.
 
+# The Challenge:
+![Page 1](challenge/1.png)
+![Page 1](challenge/2.png)
+![Page 1](challenge/3.png)
+![Page 1](challenge/4.png)
+
+
 ![Page 1](day23.png)
